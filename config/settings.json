@@ -1,0 +1,6 @@
+{
+    "reminder_interval": 20,
+    "custom_message": "Time to stretch!",
+    "play_sound": true,
+    "notification_timeout": 30
+}
